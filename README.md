@@ -8,3 +8,7 @@ Dalam satu kali run, message akan dikirim sebanyak 5 kali. Hal ini dapat dilihat
 program, what does it mean?
 url antara publisher dengan subscriber disamakan karena akan connect ke server AMQP yang sama, dimana guest pertama berarti username, guest kedua adalah password untuk username guest, dan localhost:5672
 adalah server address dan port yang akan digunakan untuk protokol AMQP yakni RabbitMQ.
+
+---
+
+![image](https://github.com/user-attachments/assets/3170f218-c8e9-4c2d-8aeb-607a9b64a157)
