@@ -21,5 +21,6 @@ Setelah menjalankan subscriber terlebih dulu, dilakukan cargo run pada publisher
 ---
 
 ### Charts in RabbitMQ
-![image](https://github.com/user-attachments/assets/8cf67811-c5f8-4bf6-bdb8-4d1cb0fc5fd4)
-Spike yang muncul pada chart disebabkan oleh adanya aktivitas pengiriman dan penerimaan message dari publisher ke subscriber. Hal ini menyebabkan adanya spikes pada message rates dan juga jika pengiriman pesan dilakukan dengan cepat, maka spikes pada queued messages juga muncul karena ada beberapa messages yang 'antri' untuk dikirimkan
+![image](https://github.com/user-attachments/assets/0ba10234-ec02-46ce-bbce-2e40fcfaf676)
+
+Spike yang muncul pada chart disebabkan oleh adanya aktivitas pengiriman dan penerimaan message dari publisher ke subscriber. Hal ini menyebabkan adanya spikes pada message rates.
