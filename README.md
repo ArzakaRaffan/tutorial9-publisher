@@ -12,3 +12,7 @@ adalah server address dan port yang akan digunakan untuk protokol AMQP yakni Rab
 ---
 
 ![image](https://github.com/user-attachments/assets/3170f218-c8e9-4c2d-8aeb-607a9b64a157)
+
+---
+
+![image](https://github.com/user-attachments/assets/41e27046-bc15-4826-8a80-b302c718866e)
